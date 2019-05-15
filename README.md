@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `plop`
+
+Run the code generator to facilitate the development and create the components, helpers, and layouts. this is recommend to write an uniform and clean code.
+
 ### `npm start`
 
 Runs the app in the development mode.<br>
